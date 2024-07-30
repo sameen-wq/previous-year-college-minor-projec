@@ -1,0 +1,8 @@
+torch
+torchvision
+imageai
+requests
+flask
+tensorflow
+flask_cors
+#the python version used is 3.9

@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  font-family: "Poppins", sans-serif;
+  box-sizing: border-box;
+}
+
+/* body { */
+/* background-color: #669bbc; */
+/* background: url("./assets/gradient-bg.svg") no-repeat; */
+/* background-position: center;
+  background-size: cover;
+  background-attachment: fixed; */
+/* background-color: rgba(12, 30, 54, 0.9); */
+/* } */
+
+.bg-skyBlue {
+  background-color: #aff1ec;
+}
+
+.rti--container {
+  max-height: 100% !important;
+}
+.rti--container > .rti--input {
+  width: fit-content !important;
+}
